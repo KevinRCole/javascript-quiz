@@ -6,7 +6,7 @@
 
 ## March 19, 2022
 
-This is a UW Coding Bootcamp project that requires me to use JavaScript, HTML, and CSS ot create an interactive multiple choice quiz about JavaScript.  The project requires me to request user input, and then manipulate, process,that input, to create and display output, using JavaScript and JavaScript API's.
+This is a UW Coding Bootcamp project that requires me to use JavaScript, HTML, and CSS ot create an interactive multiple choice quiz about JavaScript.  The project requires me to request user input, and then store, manipulate, and process that input to create and display output, using JavaScript and JavaScript API's.
 
 ## Description
 
@@ -16,7 +16,7 @@ My motivation and reason for doing this project is to learn how to use JavaScrip
 
 ## Credits
 
-I have been relying on information provided by UW Coding Bootcamp, including classwork and supplemental BootCamp materials, as well as some input from a Bootcamp tutor, and information I have found on the web.
+I have been relying on information provided by UW Coding Bootcamp, including classwork, lectures, and supplemental BootCamp materials, as well as some input from a Bootcamp tutor, and information I have found on the web.
 
 ## Access
 

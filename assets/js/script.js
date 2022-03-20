@@ -108,12 +108,21 @@ firstQuestionPanel.appendChild(rightOrWrongQ1);
 // SECOND QUESTION PANEL: Create HTML elements of panel for SECOND question
 
 var secondQuestionPanel = document.createElement("div");
+
+// style the secondQuestionPanel
+
+secondQuestionPanel.setAttribute("style", "display: flex; flex-direction: column; align-items: center");
+
 var headerOfPanelQ2 = document.createElement("h1");
 
 // var answersToQ2 = document.createElement("div");
 // var answwersToQ2 = document.createElement("ul");
 
+// create a div to be the container for the buttons
 var buttonDivQ2 = document.createElement("div")
+
+// style the button container div
+buttonDivQ2.setAttribute("style", "display: flex; align-items: start; justify-content: start; flex-direction: column");
 
 var firstButtonQ2 = document.createElement("button");
 var secondButtonQ2 = document.createElement("button");
